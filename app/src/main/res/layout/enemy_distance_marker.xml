@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.zx50.myradar.mywidget.MyTextView2
+        android:id="@+id/enemy_distance_marker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/transparent"
+        android:gravity="center"
+        android:textColor="@color/buttonRed"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
+</android.support.constraint.ConstraintLayout>
